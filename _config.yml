@@ -11,9 +11,9 @@ title                    : "Samuel Aregbesola"
 title_separator          : "-"
 name                     : &name "Samuel Aregbesola"
 description              : &description "An academic portfolio for Samuel Aregbesola"
-url                      : https://samuelaregbesola.github.io 
+url                      : https://samaregbesola.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "samuelaregbesola/samuelaregbesola.github.io"
+repository               : "samaregbesola/samaregbesola.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aregbesola Samuel"
+  name             : "Samuel Aregbesola"
   avatar           : "profile.png"
-  bio              : "Student"
-  location         : "Earth"
+  bio              : "Researcher"
+  location         : "Daegu, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "samuelaregbesola@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "samuelaregbesola"
+  github           : "samaregbesola"
   google_plus      :
   keybase          :
   instagram        :

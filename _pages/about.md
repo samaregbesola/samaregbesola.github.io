@@ -10,7 +10,6 @@ redirect_from:
 
 
 I am a highly motivated graduate researcher specializing in the field of xxxxx. With a strong passion for scientific exploration and discovery, I have dedicated my academic journey to unraveling the complexities of research in xxxxxxx. I hold a degree in xxxxxxx from the prestigious University of XYZ, where my groundbreaking research on xxxx earned me recognition and several accolades.
----
 
 ## Education
 
